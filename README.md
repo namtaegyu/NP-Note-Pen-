@@ -18,6 +18,9 @@
 
 ## 5. 예상되는 결과물:
 -> 필요한 내용을 작성하여 저장하고, 필요할 때마다 언제든지 저장된 파일(.txt)을 열어서 볼 수 있음.
+![qwe](https://user-images.githubusercontent.com/54826784/70105625-b8ca9600-1684-11ea-8bfe-608dee92024f.PNG)
+![asd](https://user-images.githubusercontent.com/54826784/70105626-b8ca9600-1684-11ea-8f6d-81ed55e20266.PNG)
+
 
 ## 6. 소감
 <ul>Xuan Ha : 이번에 팀 프로젝트를 통해 MFC에 연동하는 방법에 대해 학습하였습니다. 항상 좋은 강의 감사합니다. 더 열심히 하겠습니다.</ul>
